@@ -1,8 +1,4 @@
-# Tugas LeetCode — Penjelasan Algoritma
-
-Repositori ini berisi solusi untuk beberapa permasalahan LeetCode yang berkaitan dengan algoritma yang dipelajari di perkuliahan, beserta video penjelasannya. Setiap problem memiliki dua video: satu penjelasan **teknis** dan satu penjelasan **non-teknis**.
-
-Terdapat 2 problem wajib (Problem 1 & 2, salah satunya bertopik Graph dan satunya Tree) dan 2 problem tambahan sebagai bonus (Problem 3 & 4).
+# BabyBabyBoo
 
 ---
 
